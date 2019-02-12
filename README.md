@@ -6,19 +6,19 @@
 
 This repository is a collection of templates of Burp Suite Extensions, focusing on [Burp suite API](https://portswigger.net/burp/extender/api/) functionalities and simplifying Java language consuming through JRuby.
 
-Here, we're trying to make it a simple as possible. You Just focus on your idea and save time tons of times searching for examples and extensions.
+Here, we're trying to make it as simple as possible. You Just focus on your idea and save tons of time searching for examples and extensions.
 
 ## Why? 
 
-Due the lake of examples and implementations of Burp Extension using Ruby, I've decided to make it easy for all rubyists to have a confident and quick start to build useful extension for InfoSec community. This repository with NO doubt will speed up building your Burp Extension using Ruby. This is a part of **@Rubyfu (Rubyfu.net)** goals of filling the gab of Ruby existence upon InfoSec community.
+Due to the lack of examples of implementations of Burp Extension using Ruby, I've decided to make it easy for all rubyists to have a confident and quick start to build useful extension for InfoSec community. This repository will speed up building your Burp Extension using Ruby with NO doubt . This is a part of **@Rubyfu (Rubyfu.net)** goals of filling the gab of Ruby existence upon InfoSec community.
 
 ## How? 
 
-There are couple of news here, one is good and one is bad:
+There are a couple of news below, the good and the bad one:
 
-**The good news is**, all written extensions whether its written in Java, Ruby or Python are identecally useful resources to you.
+**The good news is**: all written extensions whether its written in Java, Ruby or Python are identecally useful resources to you.
 
-**The Bad news is**, you've to read and understand a *bit* of Java. And that's the key of the good news though ;) 
+**The Bad news is**: you've to read and understand a *bit* of Java. And that's the key of the good news though ;) 
 
 
 
